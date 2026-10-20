@@ -11,6 +11,7 @@ public sealed class ExampleTest
     public void Setup()
     {
         example = new Example();
+        
     }
 
     [TestMethod]
