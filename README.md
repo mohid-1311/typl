@@ -1,34 +1,36 @@
 # TYPL
 
-## Features
+## features
 
-- Tipp-Test ausführen
-  - Starten
-  - Buchstaben senden
-  - Abbrechen
-  - Beenden
-- Einstellungen ändern
-- Einstellungen persistent speichern
-- Ergebnisse ansehen (Geschwindigkeit und Accuracy), in Graphansicht
-- Ergebnisse persistent speichern
+- execute typing-test
+  - Start
+  - send/consume sharacters
+  - cancel
+  - end
+- change settings
+- save settings permanently
+- view results (speed and accu), with graph
+- save results permanently
 
-## Geplante Settings
-- Text
-  - Länge
-    - Wörter
-    - Zeit
-  - Sprache
-  - Zahlen (als zusätzliche wörter)
-  - Punctuation
-- Verhalten
-  - Bei Fehlern
-    - Ignorieren, an der Stelle stehenbleiben
-    - Falsche Buchstaben anhäufen, müssen gelöscht werden
+## planned settings
+- test
+  - length
+    - words
+    - time
+  - language
+  - numbers (as additional words)
+  - punctuation
+- behaviour
+  - on errors
+    - ignore, 'wait' for correct input
+    - accumulate, errors have to be backspaced
+  - on space
+    - progress is word based, space skips to next word
 
-## Vorgehen
+## programming procedure
 
-- Features überlegen
-- Features einfach implementieren, Domäne zuerst
-- Schnelle Durchstöße machen
-- nach und nach erweitern mit Prinzpien aus der Vorlesung
-- Am Ende die technischen Details
+- think of features
+- implement very simply, domain space first
+- make fast break throughs
+- slowly extend code with concepts from lecture
+- technical details at the end
