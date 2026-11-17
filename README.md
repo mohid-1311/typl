@@ -3,6 +3,10 @@
 ## Features
 
 - Tipp-Test ausführen
+  - Starten
+  - Buchstaben senden
+  - Abbrechen
+  - Beenden
 - Einstellungen ändern
   - zu Länge dest Tests
   - zu Wortauswahl
