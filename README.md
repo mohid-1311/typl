@@ -8,13 +8,22 @@
   - Abbrechen
   - Beenden
 - Einstellungen ändern
-  - zu Länge dest Tests
-  - zu Wortauswahl
-  - zu Verhalten
 - Einstellungen persistent speichern
 - Ergebnisse ansehen (Geschwindigkeit und Accuracy), in Graphansicht
 - Ergebnisse persistent speichern
-- 
+
+## Geplante Settings
+- Text
+  - Länge
+    - Wörter
+    - Zeit
+  - Sprache
+  - Zahlen (als zusätzliche wörter)
+  - Punctuation
+- Verhalten
+  - Bei Fehlern
+    - Ignorieren, an der Stelle stehenbleiben
+    - Falsche Buchstaben anhäufen, müssen gelöscht werden
 
 ## Vorgehen
 
